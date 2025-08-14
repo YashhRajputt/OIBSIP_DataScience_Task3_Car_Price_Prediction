@@ -24,10 +24,4 @@ The machine learning model successfully predicted car selling prices based on fe
 The model demonstrated strong generalization and can be integrated into a web or desktop app for real-world car price estimation.
 
 ## Requirements
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-joblib
-nbformat
+pandas , numpy , matplotlib , seaborn , scikit-learn , joblib , nbformat
